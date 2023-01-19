@@ -1,6 +1,6 @@
 
-<img align="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=cufta22&show_icons=true&theme=onedark" />
-<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cufta22&layout=compact" />
+<!-- <img align="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=cufta22&show_icons=true&theme=onedark" /> -->
+<!-- <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cufta22&layout=compact" /> -->
 
 #
 
